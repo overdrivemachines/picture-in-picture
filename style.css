@@ -11,6 +11,15 @@ body {
   justify-content: center;
   align-items: center;
   background: rgb(37,37,37);
+  font-family: Barlow, sans-serif;
+  color: whitesmoke;
+  flex-direction: column;
+}
+
+h1 {
+  font-size:  32px;
+  font-weight: 700;
+  letter-spacing: 3px;
 }
 
 .button-container {
